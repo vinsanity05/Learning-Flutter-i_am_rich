@@ -1,16 +1,9 @@
-# i_am_rich
+# i am rich
 
-A new Flutter project.
+This project is the 2nd course from London App Brewery and Angela Yu. This project is called 'I am Rich'. This course essentially helped me create my first application in Flutter with iOS and Android. It breaks down on how to add asset images, background colour and text. 
 
-## Getting Started
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/60824509/171192280-864f674a-73e2-4014-b6eb-f20ae06ff3cb.png" width="150" height="300" />
+</p>
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
